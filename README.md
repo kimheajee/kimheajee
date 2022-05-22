@@ -13,11 +13,6 @@
 <div align="center">
  <h4>🛠 Tech Stack 🛠 </h4><br/>
 </div>
-
-
-<br/>
-
-
 <div align="center">
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,7 +30,7 @@
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kimheajee)](https://velog.io/@kimheajee)<div align="center"> 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimheajee)](https://github.com/eungyeole/velog-readme-stats)
 
-<h34> 🧸 Me  🧸</h4>
+<h4> 🧸 Me  🧸</h4>
  </div>
 
 
