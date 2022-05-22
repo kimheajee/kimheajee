@@ -28,11 +28,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&card_width=10">          
  </div>  
   <br/> <br/> <br/> <br/> 
-    
+
           
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimheajee&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimheajee&layout=compact&theme=gruvbox)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=typescript)](https://github.com/eungyeole/velog-readme-stats)
+
 
 
 
