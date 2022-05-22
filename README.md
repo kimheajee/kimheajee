@@ -17,7 +17,7 @@
 
 
 <div align="center">
-🖤 Tech Stack 🖤 
+ <span style="font-size:250%"> 🖤 Tech Stack 🖤 </span>
   
 
 </div>
