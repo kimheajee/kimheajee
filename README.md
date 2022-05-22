@@ -28,12 +28,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&card_width=10">          
  </div>  
   <br/> 
+ 
 
-          
-<div align="center">
  <h3>🛠 blog 🛠 </h3>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kimheajee)](https://velog.io/@kimheajee) 
- </br>
+ 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kimheajee)](https://velog.io/@kimheajee)<div align="center"> 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimheajee)](https://github.com/eungyeole/velog-readme-stats)
 </div>
 
