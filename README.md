@@ -30,7 +30,7 @@
   <br/> 
  
 
- <h3>🛠 blog 🛠 </h3>
+ <h3>🏠 blog 🏠 </h3>
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kimheajee)](https://velog.io/@kimheajee)<div align="center"> 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimheajee)](https://github.com/eungyeole/velog-readme-stats)
