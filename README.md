@@ -30,7 +30,9 @@
   <br/> <br/> <br/> <br/> 
 
           
-
+<div align="center">
+ <h3>🛠 blog 🛠 </h3><br/>
+</div>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=typescript)](https://github.com/eungyeole/velog-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=typescript)](https://github.com/eungyeole/velog-readme-stats)
 
