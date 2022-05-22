@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=310&color=0:d0c7b7,100:857462&fontSize=90&text=HELLO!%20HEAJEE!)
+![header](https://capsule-render.vercel.app/api?type=slice&height=410&color=0:d0c7b7,100:857462&fontSize=90&text=HELLO!%20HEAJEE!)
 
 
 
@@ -28,13 +28,14 @@
 </hr>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">          
  </div>  
+  
+    
+          
 
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimheajee&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimheajee&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimheajee&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimheajee&layout=compact&theme=gruvbox)
 
 
 
