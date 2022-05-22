@@ -4,7 +4,7 @@
 
 
 
-<br/> <br/> <br/> <br/> 
+<br/> <br/> 
 
 
 
@@ -35,7 +35,7 @@
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kimheajee)](https://velog.io/@kimheajee)<div align="center"> 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimheajee)](https://github.com/eungyeole/velog-readme-stats)
 </div>
-
+🧸<h3> Me </h3> 🧸
 
 
 
