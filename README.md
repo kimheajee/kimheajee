@@ -16,15 +16,17 @@
 
 
 
-<div align="center">
- <span style="font-size:250%"> 🖤 Tech Stack 🖤 </span>
-  
 
-</div>
+ <p align="center"> 🖤 Tech Stack 🖤 </p>
+
 
 
 <div align="center">
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+
+
 </div>
 
 
