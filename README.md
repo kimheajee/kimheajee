@@ -8,7 +8,7 @@
 
 
 
-🖤 Tech Stack 🖤 
+# 🖤 Tech Stack 🖤 
 
 
 
