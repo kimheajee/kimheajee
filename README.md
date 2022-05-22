@@ -33,8 +33,10 @@
 <div align="center">
  <h3>🛠 blog 🛠 </h3>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=typescript)](https://github.com/kimheajee/velog)</br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=typescript)](https://github.com/kimheajee/velog)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimheajee)](https://github.com/eungyeole/velog-readme-stats)
+</br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimheajee&tag=coding)](https://github.com/eungyeole/velog-readme-stats)
+
 </div>
 
 
