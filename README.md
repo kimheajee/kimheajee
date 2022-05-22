@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
+![header](https://capsule-render.vercel.app/api?type=slice&height=310&color=0:d0c7b7,100:857462&fontSize=90&text=HELLO!%20HEAJEE!)
 
 <!--
 **kimheajee/kimheajee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
