@@ -11,7 +11,7 @@
 
 
 <div align="center">
- <h3>🛠 Tech Stack 🛠 </h3><br/>
+ <h4>🛠 Tech Stack 🛠 </h4><br/>
 </div>
 
 
@@ -30,12 +30,13 @@
   <br/> 
  
 
- <h3>🏠 heajee blog 🏠 </h3>
+ <h4>🏠 heajee blog 🏠 </h4>
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kimheajee)](https://velog.io/@kimheajee)<div align="center"> 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimheajee)](https://github.com/eungyeole/velog-readme-stats)
-</div>
-🧸<h3> Me </h3> 🧸
+
+<h34> 🧸 Me  🧸</h4>
+ </div>
 
 
 
