@@ -27,14 +27,15 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&card_width=10">          
  </div>  
-  <br/> <br/> <br/> <br/> 
+  <br/> 
 
           
 <div align="center">
- <h3>🛠 blog 🛠 </h3><br/>
+ <h3>🛠 blog 🛠 </h3>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=typescript)](https://github.com/eungyeole/velog-readme-stats)</br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=typescript)](https://github.com/eungyeole/velog-readme-stats)
 </div>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=typescript)](https://github.com/eungyeole/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=typescript)](https://github.com/eungyeole/velog-readme-stats)
 
 
 
